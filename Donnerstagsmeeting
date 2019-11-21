@@ -1,0 +1,33 @@
+Fragen an Menzel:
+
+
+Nur Strom (auch Gas)
+Sollen wir die privaten Energie(Stromanbieter) weglassen?
+
+Was genau ist mit Regionalstruktur gemeint?
+Sollen wir nur die Stadtwerke zB in einer Deutschlandkarte abbilden?
+
+Welche statistischen Funktionen nutzen wir?
+
+Welche Daten?
+
+Dichte, Preis, Einwohnerdichte, Ratings, Bundesland, Haushalten,
+Wie verändern sich die Stromtarife über Zeit?
+
+Home Bias?
+Müssen wir dem Leitfaden folgen?
+
+Mapping:
+Dichte und Orte der Stadtwerke
+Plus Preise vom Standardtarif
+
+
+Folgen die Stadtwerke dem Standard Preis Muster
+zB Berlin 2. teuerstes Bundesland
+			Korreliert mit Einkommen, Einwohnerdichte, Stadtwerk-Dichte?
+
+		Normalen Strom vs. Ökostrom
+
+
+	1)  Stadtwerke (MU) in Liste überführen inkl Adressen /ÖKO/nichtÖKO/Basistarif
+	2) Adressen in detailliertere Liste überführen. Strasse/Nummer/PLZ/KOORDINATEN/Bundesland/Basistarif/...
